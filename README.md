@@ -5,6 +5,10 @@
 <div align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjaei&count_bg=%23C5EBF9&title_bg=%23F9A7A7&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/jjaei)
+
+![1786b119778bb1ca718047c3a20e7285](https://github.com/jjaei/jjaei/assets/120344687/b9cc216b-310d-462e-bea3-aa3b45aa134b)
+
+
 </div>
 
 <div align=center>    
