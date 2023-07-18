@@ -10,7 +10,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjaei&count_bg=%23C5EBF9&title_bg=%23F9A7A7&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/jjaei)
 
 </div>
-
 <div align=center>    
     <h2>📚 STACKS</h2></div>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
@@ -30,9 +29,9 @@
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://jaeiva.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://jaeiva.tistory.com/"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
+       <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="> </a>
+    </div>  <br> 
+      <div align= "center">  </div> 
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jjaei&bg_color=180,000000,&title_color=000000&text_color=000000"
