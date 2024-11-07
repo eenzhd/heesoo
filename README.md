@@ -7,7 +7,7 @@
 
 ![1786b119778bb1ca718047c3a20e7285](https://github.com/eenzhd/heesoo/assets/120344687/b9cc216b-310d-462e-bea3-aa3b45aa134b)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjjaei&count_bg=%23C5EBF9&title_bg=%23F9A7A7&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/jjaei)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feenzhd&count_bg=%23C5EBF9&title_bg=%23F9A7A7&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/eenzhd)
 
 </div>
 <div align=center>    
@@ -44,7 +44,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=eenzhd&bg_color=180,000000,&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjaei&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eenzhd&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
     
